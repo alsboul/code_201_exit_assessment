@@ -1,0 +1,40 @@
+ul{
+    padding: 10px;
+}
+li{
+    display: inline-block;  
+    margin: 15px; 
+    padding: 5px; 
+    vertical-align: top;
+    font-family: fantasy;
+    color:white;
+}
+nav{
+  
+    background: teal;
+}
+ #footer{
+    margin-top:350px;
+    text-align: center;
+    background: teal;
+    font-family: fantasy;
+    padding: 20px;
+} 
+#lorem {
+    font-family: fantasy;
+    float: left;
+    width: 450px;
+    height: 250px;
+    overflow: auto;
+    margin-left:40px;
+}
+#s{
+    padding: 40px;
+}
+#a{
+    margin-left: 60px;
+}
+#form{
+margin-top: 300px;
+}
+
